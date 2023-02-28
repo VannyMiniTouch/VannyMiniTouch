@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VannyMiniTouch
+- 👋 Hi, I'm Vanny, my full name is Chhun Vanny
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on ...
